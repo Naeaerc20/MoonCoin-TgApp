@@ -6,6 +6,8 @@
     "colors": "^1.4.0",
     "console-clear": "^1.1.1",
     "figlet": "^1.7.0",
+    "ora": "^8.1.1",
+    "p-limit": "^6.1.0",
     "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10",
     "tweetnacl": "^1.0.3",
